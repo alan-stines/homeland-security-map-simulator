@@ -1,5 +1,7 @@
 # MGA Global Threat Watch
 
+Repository: `homeland-security-map-simulator`.
+
 A static, GitHub Pages-compatible homeland security exercise dashboard. Open `index.html` or serve this folder with `python -m http.server 8080`.
 
 Designed for unattended full-screen TV display, with a fixed viewport layout and no scrolling. The world map fills the display area, with compact readiness and highlighted-event overlays, a three-bulletin strip, and a single latest-event ticker. Category icons beside Pause toggle the map layers. Use the Full screen button after opening the page.
